@@ -1,7 +1,7 @@
 # Chat Room Application
 ## Computer Networks 
 
-*Internet chat application with a server program and a client program. The server manages a chat group, allowing any number of clients to join the group with a user name at any time. *
+_Internet chat application with a server program and a client program. The server manages a chat group, allowing any number of clients to join the group with a user name at any time._
 <ol>
 <li> Broadcast: Any client is able to send a text to the server, which will relay itto all other clients for display. </li>
 <li> Broadcast: Any client is able to send a file of any type to the group via the server.   </li>
